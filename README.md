@@ -294,16 +294,16 @@ First, we need to set up the data model.
 #### Pictures of the Dashboard:
 
 Overview Screen:
-![image](https://github.com/user-attachments/assets/94a402b6-a94f-465a-ba76-a8e9c1030d14)
+![image](https://github.com/user-attachments/assets/16ef9ef4-3806-43f2-b3a4-fc5ce0d6d407)
 
 Conversion Screen:
-![image](https://github.com/user-attachments/assets/45eaaa47-d7a5-4654-87c8-3679fb614947)
+![image](https://github.com/user-attachments/assets/d27d6364-7594-413e-8f78-7de710791edf)
 
 Social Media Screen:
-![image](https://github.com/user-attachments/assets/065968c4-f9b0-44da-b532-f827ea07795b)
+![image](https://github.com/user-attachments/assets/45377b22-e5f1-491d-8518-61fb8996ebd1)
 
 Customer Reviews Screen:
-![image](https://github.com/user-attachments/assets/2a972220-5067-4958-9b85-b34ff7a41f8c)
+![image](https://github.com/user-attachments/assets/31e65b41-2aad-4234-82c3-001eacf1d1c9)
 
 
 All measures and backgrounds will be in the repo files.
