@@ -1,4 +1,4 @@
-[Try it out here!](https://app.powerbi.com/view?r=eyJrIjoiYmM3MDg3ZTgtZTViNy00YmMyLWFkYmMtOWU5ZGZmZjA3ZmU3IiwidCI6ImJkMGNhZWQyLTBiNTctNDllNy1hMjY2LTYzMWZhNmE2YzIyYSJ9)
+[Try it out here!](https://app.powerbi.com/view?r=eyJrIjoiZDIwYzI5YTYtNTUyYy00NzJmLWE4MmMtMDhjYjY2ZDdlYTg4IiwidCI6ImJkMGNhZWQyLTBiNTctNDllNy1hMjY2LTYzMWZhNmE2YzIyYSJ9)
 
 # ShopEasy MArketing Analysis Dashboard
 
