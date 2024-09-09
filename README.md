@@ -1,6 +1,6 @@
 [Try it out here!](https://app.powerbi.com/view?r=eyJrIjoiZDIwYzI5YTYtNTUyYy00NzJmLWE4MmMtMDhjYjY2ZDdlYTg4IiwidCI6ImJkMGNhZWQyLTBiNTctNDllNy1hMjY2LTYzMWZhNmE2YzIyYSJ9)
 
-# ShopEasy MArketing Analysis Dashboard
+# ShopEasy Marketing Analysis Dashboard
 
 ShopEasy, an online retail business, is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns. They are reaching out to you to help conduct a detailed analysis and identify areas for improvement in their marketing strategies. Jane at ShopEasy has provided us with requirements to develop a dashboard tailored for her sales team's use.
 
